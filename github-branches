@@ -1,0 +1,4 @@
+$ git branch -vv
+* main              a7c4b10 [origin/main] Initial commit with project files
+  bug-fix-typo      b2f4c3d [origin/bug-fix-typo] Fixed typo in README.md
+  feature-updates   c8e5d21 [origin/feature-updates] Added additional documentation
